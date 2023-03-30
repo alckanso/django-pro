@@ -1,2 +1,2 @@
 # django-pro
-Estudo de Django e Desenvolvimento Web - Acompanhamento de tutorial YouTube
+Django and Web Development studying - Following Youtube tutorial
